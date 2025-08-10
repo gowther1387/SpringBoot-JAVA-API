@@ -29,5 +29,3 @@ Implementar a estrutura básica de um projeto Spring Boot, configurando a aplica
 
 ---
 
-🔗 **Notas Adicionais**
-Este repositório será expandido conforme o progresso do curso.
